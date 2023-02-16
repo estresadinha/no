@@ -1,0 +1,8 @@
+C:\Users\manuele.capereira\source\repos\Novo\bin\Debug\Novo.exe.config
+C:\Users\manuele.capereira\source\repos\Novo\bin\Debug\Novo.exe
+C:\Users\manuele.capereira\source\repos\Novo\bin\Debug\Novo.pdb
+C:\Users\manuele.capereira\source\repos\Novo\obj\Debug\Novo.csproj.AssemblyReference.cache
+C:\Users\manuele.capereira\source\repos\Novo\obj\Debug\Novo.csproj.SuggestedBindingRedirects.cache
+C:\Users\manuele.capereira\source\repos\Novo\obj\Debug\Novo.csproj.CoreCompileInputs.cache
+C:\Users\manuele.capereira\source\repos\Novo\obj\Debug\Novo.exe
+C:\Users\manuele.capereira\source\repos\Novo\obj\Debug\Novo.pdb
